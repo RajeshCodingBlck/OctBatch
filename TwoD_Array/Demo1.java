@@ -17,6 +17,7 @@ public class Demo1 {
 	  
 	  int [][] arr= new int [3][4];
 	  int [][] brr=arr;
+	  System.out.println(brr);
 	  
 	  
 	}
