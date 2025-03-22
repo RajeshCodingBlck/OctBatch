@@ -14,10 +14,14 @@ public class Demo1 {
 	  
 //	  System.out.println(arr[2][3]);
 	  
-	  
-	  int [][] arr= new int [3][4];
-	  int [][] brr=arr;
-	  System.out.println(brr);
+//	  
+//	  int [][] arr= new int [3][4];
+//	  int [][] brr=arr;
+//	  System.out.println(brr);
+		
+		int size= (int)(1e12); // 10^12
+		int [] arr= new int[size];
+		
 	  
 	  
 	}
