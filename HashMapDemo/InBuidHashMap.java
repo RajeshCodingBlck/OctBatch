@@ -9,7 +9,7 @@ public class InBuidHashMap {
 //		
 //	  ArrayList<Integer> arr= new ArrayList<>();
 	          // key, value
-     // HashMap<String,Integer> hm= new HashMap();
+      HashMap<String,Integer> hm= new HashMap();
       
       // Insert a Data
 //      hm.put("Aman", 50);
