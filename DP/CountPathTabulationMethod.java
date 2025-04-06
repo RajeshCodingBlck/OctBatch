@@ -28,7 +28,7 @@ public class CountPathTabulationMethod {
 
 		int[][] dp = new int[n][m];
 
-		// dp[i][j]= No of ways to reach (n-1, m-1) from (i,j);
+		// dp[i][j]= No of ways to reach (i,j) from (0,0);
 		for (int i = 0; i < n; i++) {
 			dp[i][0] = 1;
 		}
